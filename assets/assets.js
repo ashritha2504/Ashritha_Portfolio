@@ -1,4 +1,3 @@
-import user_image from './user-image.png';
 import code_icon from './code-icon.png';
 import code_icon_dark from './code-icon-dark.png';
 import edu_icon from './edu-icon.png';
@@ -11,13 +10,10 @@ import figma from './figma.png';
 import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
-import logo from './logo.png';
-import logo_dark from './logo_dark.png';
 import Ashritha_resized from './Ashritha_resized.png';
 import Ashritha_dark_resized from '../public/Ashritha_dark_resized.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
-import profile_img from './profile-img.png';
 import download_icon from './download-icon.png';
 import hand_icon from './hand-icon.png';
 import header_bg_color from './header-bg-color.png';
@@ -39,7 +35,7 @@ import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 
 export const assets = {
-    user_image,
+
     code_icon,
     code_icon_dark,
     edu_icon,
@@ -52,13 +48,10 @@ export const assets = {
     git,
     mongodb,
     right_arrow_white,
-    logo,
-    logo_dark,
     mail_icon,
     mail_icon_dark,
     Ashritha_resized,
     Ashritha_dark_resized,
-    profile_img,
     download_icon,
     hand_icon,
     header_bg_color,
